@@ -1,0 +1,64 @@
+PERSONAL INFORMATION
+1.Full Name
+2.Gender
+3.Email
+4.PHONE
+ a.Phone one
+ b.Phone two
+5 Address
+6 Photo
+7 Property Type
+  a.Commercial
+  b.Land
+  c.Residential
+8 For
+  a. Lease
+  b. Sale
+  c. Rent
+  
+PROPERTY INFORMATION(for residencial){
+1.Property Category
+  a. Public Yard
+  b. Self Contain
+  c. 1 Bedroom Flat
+  d. 2 Bedroom Flat
+  e. 3 Bedroom Flat
+  f. 4 Bedroom Flat
+  g. Bunglow
+  i. Duplex
+  g.Others
+2.Number of Rooms
+   1 to 10 (drop down)
+3.New Building?
+  Yes or No (Option button)
+}
+PROPERTY INFORMATION(Commercial){
+1.Property Category(Commercial)
+  a.Hotel
+  b.Office
+  c.Plazza
+  d.Shopping malls
+  e.Shop
+  f.Store
+  g.Warehouses
+  h.Others
+2.Number of Rooms
+   1 to 10 (drop down)
+3.New Building?
+  Yes or No (Option button)
+}
+
+PROPERTY INFORMATION(Land){
+1.Plots
+  a.1/2,1,2....100 plots
+}
+
+ PROPERTY ADDRESS
+1 State
+2 LGA
+3 City
+4 Address
+ OTHER INFORMATION
+1.Description
+2.Price
+image1,image2,image3...
