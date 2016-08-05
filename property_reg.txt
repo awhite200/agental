@@ -15,6 +15,7 @@ PERSONAL INFORMATION
   a. Lease
   b. Sale
   c. Rent
+
   
 PROPERTY INFORMATION(for residencial){
 1.Property Category

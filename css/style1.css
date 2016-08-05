@@ -46,11 +46,12 @@ h1 {
     padding: 2em 0 0;
 }
 .login-form {
-    width: 35%;
+    width: 80%;
     margin: 2.5em auto;
     background: url(../images/1.jpg)no-repeat center 0px;
     background-size: cover;
 }
+/*
 .login-form input[type="text"], .login-form input[type="password"] {
     outline: none;
     font-size: 1em;
@@ -71,6 +72,7 @@ h1 {
     color: #fff;
     margin: 1em 0 .5em;
 }
+*/
 /*-- checkbox --*/
 .login-agileits-top input[type="checkbox"] {
     display: none;
